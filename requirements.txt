@@ -1,0 +1,3 @@
+faker
+bs4
+requests
